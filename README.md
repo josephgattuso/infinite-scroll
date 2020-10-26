@@ -20,8 +20,7 @@
 - [x] Add a loader SVG
 - [x] Add image placeholders
 - [x] Center elements on page
-- [ ] Center elements on page
-- [ ] Add responsive layout
+- [x] Add responsive layout
 - [ ] Fetch data from API
 - [ ] Display data with JS
 - [ ] Infinite scrolling with JS
