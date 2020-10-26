@@ -17,7 +17,7 @@
 
 ## 📖 User Stories
 
-- [ ] Add a loader SVG
+- [x] Add a loader SVG
 - [ ] Add image elements
 - [ ] Center elements on page
 - [ ] Add responsive layout
@@ -27,4 +27,5 @@
 
 ## 🔗 Resources
 
+- [Loading.io](https://loading.io) - create animated loaders (free & premium)
 - [Infinite Scroll: Let’s Get To The Bottom Of This](https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this/)
