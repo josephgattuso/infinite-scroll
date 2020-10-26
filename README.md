@@ -18,7 +18,7 @@
 ## 📖 User Stories
 
 - [x] Add a loader SVG
-- [ ] Add image elements
+- [x] Add image placeholders
 - [ ] Center elements on page
 - [ ] Add responsive layout
 - [ ] Fetch data from API
