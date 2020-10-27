@@ -21,7 +21,7 @@
 - [x] Add image placeholders
 - [x] Center elements on page
 - [x] Add responsive layout
-- [ ] Fetch data from API
+- [x] Fetch data from API
 - [ ] Display data with JS
 - [ ] Infinite scrolling with JS
 
