@@ -23,7 +23,7 @@
 - [x] Add responsive layout
 - [x] Fetch data from API
 - [x] Display data with JS
-- [ ] Infinite scrolling with JS
+- [x] Infinite scrolling with JS
 
 ## 🔗 Resources
 
