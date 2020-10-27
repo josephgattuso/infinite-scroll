@@ -22,7 +22,7 @@
 - [x] Center elements on page
 - [x] Add responsive layout
 - [x] Fetch data from API
-- [ ] Display data with JS
+- [x] Display data with JS
 - [ ] Infinite scrolling with JS
 
 ## 🔗 Resources
