@@ -2,7 +2,7 @@
 
 > Simple photo gallery app that fetches images from the Unsplash API. Built using plain JavaScript.
 
-![GitHub](https://img.shields.io/github/license/josephgattuso/infinite-scroll?style=flat-square)
+![GitHub](https://img.shields.io/github/license/josephgattuso/infinite-scroll?color=orange&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/josephgattuso/infinite-scroll?style=flat-square)
 ![Pull Requests](https://img.shields.io/badge/pull_requests-welcome-blue?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/joeetuso?style=flat-square)
@@ -50,7 +50,7 @@ function imageLoaded() {
 How can we clean up the code even more, to make the code more readable and understandable? There are many solutions to this, but here is one approach:
 
 ```js
-zlet isInitialLoad = true // NEW LINE ****
+let isInitialLoad = true;
 
 // Unsplash API
 let initialCount = 5;
@@ -94,12 +94,12 @@ async function getPhotos() {
 
 ## 🔗 Resources
 
-- [Loading.io](https://loading.io) - Loading Animation Generator (free & ££)
-- [Google Fonts](https://fonts.google.com)
-- [Unsplash Images](https://unsplash.com/) - Hero images
-- [Unsplash API Documentation](https://unsplash.com/documentation#creating-a-developer-account)
-- [Infinite Scroll: Let’s Get To The Bottom Of This](https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this)
 - [For Each vs For Loops Article](https://alligator.io/js/foreach-vs-for-loops)
-- [W3Schools - For Each](https://www.w3schools.com/jsref/jsref_foreach.asp)
+- [Google Fonts](https://fonts.google.com)
+- [Infinite Scroll: Let’s Get To The Bottom Of This](https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this)
+- [Loading.io](https://loading.io) - Loading Animation Generator (free & ££)
+- [Unsplash API Documentation](https://unsplash.com/documentation#creating-a-developer-account)
+- [Unsplash Images](https://unsplash.com/) - Hero images
 - [W3Schools - DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+- [W3Schools - For Each](https://www.w3schools.com/jsref/jsref_foreach.asp)
 - [W3Schools - On Load Event](https://www.w3schools.com/jsref/event_onload.asp)
