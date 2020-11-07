@@ -29,6 +29,8 @@ yarn-error.log*
 .env.production.local
 .env.test.local
 .env*
+config.js
+config.mjs
 
 # ideas
 .idea*
